@@ -3,6 +3,8 @@
 ## Overview
 This project is a 3D-printed Bluetooth speaker that you can build at home. The enclosure was designed in Fusion 360 and 3D-printed, while the electronics include a Bluetooth amplifier module, speakers, and a rechargeable battery system. The enclosure is hand-painted to achieve a stunning wood-like finish.
 
+![3D-printed Bluetooth speaker - front view.](https://github.com/lucasfernandoprojects/3d-printed-bluetooth-speaker/blob/main/photos/1.jpg)
+
 ## Features
 - Bluetooth connectivity
 - Infrared remote control & physical buttons
@@ -23,10 +25,10 @@ After experimenting with different materials like PVC and MDF, 3D printing was c
 - **Passive Radiators**: 66mm passive bass radiators
 
 ### Other materials:
-2x **3mm LEDs** (power & charge indicators)
-**Super glue**
-**2mm EVA foam sheets** (for sound insulation)
-**Paints & brushes** (for finishing)
+- 2x **3mm LEDs** (power & charge indicators)
+- **Super glue**
+- **2mm EVA foam sheets** (for sound insulation)
+- **Paints & brushes** (for finishing)
 
 ## Design Process
 ### 1. **Fusion 360 for enclosure design**: Modeled to fit all components precisely.
@@ -69,8 +71,8 @@ After experimenting with different materials like PVC and MDF, 3D printing was c
 6. Enjoy your custom Bluetooth speaker!
 
 ## Files in This Repository
-- /files/ - 3D printable files for the enclosure
-- /photos/schematics.png - Wiring diagrams for the electronics
+- /files/ - 3D printable files for the enclosure.
+- /photos/schematics.png - Wiring diagrams for the electronics.
 
 ## Future Improvements
 - **Better passive radiator selection** based on tuning frequency calculations.

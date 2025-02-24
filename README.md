@@ -1,2 +1,2 @@
-# 3d-printed-bluetooth-speaker
+# 3D Printed Bluetooth Speaker
 3D printed Bluetooth speaker.

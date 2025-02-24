@@ -1,6 +1,6 @@
 # 3D-Printed Bluetooth Speaker
 
-* *I've recently posted a tutorial about this project on YouTube. You can watch it [here](https://www.youtube.com/@lucasfernandochannel).* *
+*I've recently posted a tutorial about this project on YouTube. You can watch it [here](https://www.youtube.com/@lucasfernandochannel).*
 
 ## Overview
 This project is a 3D-printed Bluetooth speaker that you can build at home. The enclosure was designed in Fusion 360 and 3D-printed, while the electronics include a Bluetooth amplifier module, speakers, and a rechargeable battery system. The enclosure is hand-painted to achieve a stunning wood-like finish.
@@ -20,11 +20,11 @@ After experimenting with different materials like PVC and MDF, 3D printing was c
 ## Components
 
 ### Electronics:
-- **Bluetooth + Amplifier Module**: Kebidu 5W (supports Bluetooth, FM radio, SD cards, USB drives, and infrared remote control)
-- **Speakers**: 5W, 4-ohm, 40mm diameter (generic)
+- **[Bluetooth + Amplifier Module](https://www.aliexpress.us/item/3256806644153211.html?spm=a2g0o.order_list.order_list_main.5.48b81802Hh27U6&gatewayAdapt=glo2usa4itemAdapt)**: Kebidu 5W (supports Bluetooth, FM radio, SD cards, USB drives, and infrared remote control)
+- **[Speakers](https://www.aliexpress.us/item/3256806681202647.html?spm=a2g0o.order_list.order_list_main.10.48b81802Hh27U6&gatewayAdapt=glo2usa4itemAdapt)**: 5W, 4-ohm, 40mm diameter (generic)
 - **Battery**: Two 18650 Li-Po batteries connected in parallel
-- **Charger Module**: TP4056 USB-C module
-- **Passive Radiators**: 66mm passive bass radiators
+- **[Charger Module](https://www.aliexpress.us/item/3256804241424963.html?spm=a2g0o.order_list.order_list_main.40.48b81802Hh27U6&gatewayAdapt=glo2usa4itemAdapt)**: TP4056 USB-C module
+- **[Passive Radiators](https://www.aliexpress.us/item/2251832825900859.html?spm=a2g0o.order_list.order_list_main.25.48b81802Hh27U6&gatewayAdapt=glo2usa4itemAdapt)**: 66mm passive bass radiators
 
 ### Other materials:
 - 2x **3mm LEDs** (power & charge indicators)

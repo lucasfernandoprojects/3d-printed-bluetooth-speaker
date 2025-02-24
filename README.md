@@ -16,11 +16,11 @@ After experimenting with different materials like PVC and MDF, 3D printing was c
 ## Components
 
 ### Electronics:
-**Bluetooth + Amplifier Module**: Kebidu 5W (supports Bluetooth, FM radio, SD cards, USB drives, and infrared remote control)
-**Speakers**: 5W, 4-ohm, 40mm diameter (generic)
-**Battery**: Two 18650 Li-Po batteries connected in parallel
-**Charger Module**: TP4056 USB-C module
-**Passive Radiators**: 66mm passive bass radiators
+- **Bluetooth + Amplifier Module**: Kebidu 5W (supports Bluetooth, FM radio, SD cards, USB drives, and infrared remote control)
+- **Speakers**: 5W, 4-ohm, 40mm diameter (generic)
+- **Battery**: Two 18650 Li-Po batteries connected in parallel
+- **Charger Module**: TP4056 USB-C module
+- **Passive Radiators**: 66mm passive bass radiators
 
 ### Other materials:
 2x **3mm LEDs** (power & charge indicators)
@@ -29,8 +29,8 @@ After experimenting with different materials like PVC and MDF, 3D printing was c
 **Paints & brushes** (for finishing)
 
 ## Design Process
-1. **Fusion 360 for enclosure design**: Modeled to fit all components precisely.
-2. **Iterative improvements**:
+### 1. **Fusion 360 for enclosure design**: Modeled to fit all components precisely.
+### 2. **Iterative improvements**:
 - Redesigned the back panel for durability.
 - Adjusted screw placements for better assembly.
 - Ensured proper airflow and sealing for sound optimization.

@@ -1,6 +1,6 @@
 # 3D-Printed Bluetooth Speaker
 
-*I've recently posted a tutorial about this project on YouTube. You can watch it [here](https://www.youtube.com/@lucasfernandochannel).*
+*I've recently posted a tutorial about this project on YouTube. You can watch it [here]([https://www.youtube.com/@lucasfernandochannel](https://www.youtube.com/watch?v=bhGaHZuU-Os)).*
 
 ## Overview
 This project is a 3D-printed Bluetooth speaker that you can build at home. The enclosure was designed in Fusion 360 and 3D-printed, while the electronics include a Bluetooth amplifier module, speakers, and a rechargeable battery system. The enclosure is hand-painted to achieve a stunning wood-like finish.

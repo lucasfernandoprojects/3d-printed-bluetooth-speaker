@@ -1,6 +1,6 @@
 # 3D-Printed Bluetooth Speaker
 
-*I've recently posted a tutorial about this project on YouTube. You can watch it [here]([https://www.youtube.com/@lucasfernandochannel](https://www.youtube.com/watch?v=bhGaHZuU-Os)).*
+*I've recently posted a tutorial about this project on YouTube. You can watch it [here](https://www.youtube.com/watch?v=bhGaHZuU-Os).*
 
 ## Overview
 This project is a 3D-printed Bluetooth speaker that you can build at home. The enclosure was designed in Fusion 360 and 3D-printed, while the electronics include a Bluetooth amplifier module, speakers, and a rechargeable battery system. The enclosure is hand-painted to achieve a stunning wood-like finish.
@@ -16,6 +16,10 @@ This project is a 3D-printed Bluetooth speaker that you can build at home. The e
 
 ## Why 3D Printing?
 After experimenting with different materials like PVC and MDF, 3D printing was chosen for its precision, flexibility, and ease of customization. It allows for a lightweight, compact, and aesthetically pleasing enclosure without requiring woodworking tools.
+
+Here's the schematics of this project.
+
+![Bluetooth speaker schematics](https://github.com/lucasfernandoprojects/3d-printed-bluetooth-speaker/blob/main/photos/schematics.png)
 
 ## Components
 
@@ -65,12 +69,12 @@ After experimenting with different materials like PVC and MDF, 3D printing was c
 - A fun and rewarding project that enhances 3D design and electronics skills.
 
 <div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/lucasfernandoprojects/3d-printed-bluetooth-speaker/blob/main/photos/2.jpg" width="400" height="250" style="margin: 10px;">
     <img src="https://github.com/lucasfernandoprojects/3d-printed-bluetooth-speaker/blob/main/photos/3.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/3d-printed-bluetooth-speaker/blob/main/photos/4.jpg" width="400" height="250" style="margin: 10px;">
     <img src="https://github.com/lucasfernandoprojects/3d-printed-bluetooth-speaker/blob/main/photos/5.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/3d-printed-bluetooth-speaker/blob/main/photos/10.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/3d-printed-bluetooth-speaker/blob/main/photos/13.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/3d-printed-bluetooth-speaker/blob/main/photos/15.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/3d-printed-bluetooth-speaker/blob/main/photos/18.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/3d-printed-bluetooth-speaker/blob/main/photos/6.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/3d-printed-bluetooth-speaker/blob/main/photos/7.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 </br>
 
